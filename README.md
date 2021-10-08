@@ -7,7 +7,9 @@ Gravando suas reciclagens
 Gerenciamento de materiais
 Tipos
 peso e valor
-Gerenciamento de Funcionário ***Prioridade****
+Gerenciamento de Funcionário *Prioridade*
+	
+	
 	SuperClasse Pessoa
 
 Adm (login)Implementar depois
