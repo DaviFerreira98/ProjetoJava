@@ -1,6 +1,6 @@
-# Compiled class file
+## Compiled class file
 *.class
-//luan
+
 # Log file
 *.log
 
@@ -10,7 +10,7 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+# Package Files #////////+++ 12555
 *.jar
 *.war
 *.nar
@@ -37,3 +37,6 @@ tmp/**/*
 local.properties
 .classpath
 .settings/
+
+Ana
+Carlos
